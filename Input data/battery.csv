@@ -1,0 +1,4 @@
+bess_id,bus_agg,Pmax,Emax,ChargEff,DischEff,Inom,ChargCost,DischCost,Initial_state,Final_state,PercMin,a2_charg,a1_charg
+1,6,230,750,0.95,0.95,0.13,0,0,0.6,0.1,0.001,0.9,0.2
+2,8,200,800,0.95,0.95,0.13,0,0,0.7,0.1,0.001,0.9,0.2
+3,5,270,950,0.96,0.96,0.15,0,0,0.5,0.1,0.001,0.9,0.2
